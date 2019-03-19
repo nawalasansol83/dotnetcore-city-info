@@ -1,4 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
+  <RuntimeIdentifier>win7-x64</RuntimeIdentifier>
+  <TargetFramework>net462</TargetFramework>
   <ItemGroup>
     <DotNetCliToolReference Include="BundlerMinifier.Core" Version="2.6.362" />
   </ItemGroup>
